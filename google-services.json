@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58584456061",
+    "project_id": "cloud-computing-4d1c3",
+    "storage_bucket": "cloud-computing-4d1c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58584456061:android:ad4635bb7237668db20a14",
+        "android_client_info": {
+          "package_name": "com.example.cloud_computing_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrw3VT5nN0Yq_cLkfyX2adyTyhTFYVCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
